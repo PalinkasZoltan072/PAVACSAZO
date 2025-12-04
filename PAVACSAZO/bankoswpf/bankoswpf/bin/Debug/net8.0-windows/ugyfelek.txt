@@ -1,0 +1,8 @@
+1;Nagy Péter;Budapest, Fő utca 12.;1998.01.05.;06201234567
+2;Kiss Anna;Debrecen, Széchenyi tér 9.;2001.07.22.;06203334455
+3;Horváth Máté;Szeged, Kossuth Lajos utca 5.;1995.11.10.;06304445566
+4;Tóth Dóra;Győr, Baross utca 18.;2003.03.14.;06205556677
+5;Farkas Mate;CEgled;20060626;06203895399
+6;Marticsek DAvid;Törtel, utca5;2007.02.26;06307896768
+7;zoozoz;we;20060604;06703416173
+8;23233;342234;43234;234

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\bankrendszer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\bankrendszer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7C11D-B0D8-4565-ABA4-518A302443B2}|Tesztek\\Tesztek.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\tesztek\\teszteks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7C11D-B0D8-4565-ABA4-518A302443B2}|Tesztek\\Tesztek.csproj|solutionrelative:tesztek\\teszteks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\szamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\szamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\tranzakcio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\tranzakcio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|c:\\users\\kutya\\desktop\\jooo\\bankoswpf\\bankoswpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D480930C-4229-4BA9-BC17-D876CA6DE0A0}|bankoswpf\\BankAlkalmazas.csproj|solutionrelative:bankoswpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankRendszer.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\BankRendszer.cs",
+              "RelativeDocumentMoniker": "bankoswpf\\BankRendszer.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\BankRendszer.cs",
+              "RelativeToolTip": "bankoswpf\\BankRendszer.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAcwOYBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:41:10.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teszteks.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\Tesztek\\Teszteks.cs",
+              "RelativeDocumentMoniker": "Tesztek\\Teszteks.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\Tesztek\\Teszteks.cs",
+              "RelativeToolTip": "Tesztek\\Teszteks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:19:53.225Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Szamla.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\Szamla.cs",
+              "RelativeDocumentMoniker": "bankoswpf\\Szamla.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\Szamla.cs",
+              "RelativeToolTip": "bankoswpf\\Szamla.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:07:32.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tranzakcio.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\Tranzakcio.cs",
+              "RelativeDocumentMoniker": "bankoswpf\\Tranzakcio.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\Tranzakcio.cs",
+              "RelativeToolTip": "bankoswpf\\Tranzakcio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:07:31.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ugyfel.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\Ugyfel.cs",
+              "RelativeDocumentMoniker": "bankoswpf\\Ugyfel.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\Ugyfel.cs",
+              "RelativeToolTip": "bankoswpf\\Ugyfel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:27:11.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\App.xaml",
+              "RelativeDocumentMoniker": "bankoswpf\\App.xaml",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\App.xaml",
+              "RelativeToolTip": "bankoswpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T16:41:25.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "bankoswpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "bankoswpf\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:41:22.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "bankoswpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\MainWindow.xaml",
+              "RelativeToolTip": "bankoswpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T16:16:54.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "bankoswpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\JOOO\\bankoswpf\\bankoswpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "bankoswpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:16:52.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
